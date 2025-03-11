@@ -26,7 +26,7 @@ This interactive dashboard visualizes microbiome data collected from human belly
 
 ### 1️⃣ **Clone the repository**
    ```sh
-   git clone https://github.com/your-username/belly-button-challenge.git
+   git clone https://github.com/Sharkb8t/belly-button-challenge.git
    ```
 ### 2️⃣ **Navigate to the project directory**
    ```sh
