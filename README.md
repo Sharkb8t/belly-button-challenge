@@ -18,7 +18,7 @@ This interactive dashboard visualizes microbiome data collected from human belly
 
 ✔️ **JavaScript (D3.js, Plotly.js)** - Data handling & visualization.
 
-✔️ **HTML, CSS, Bootstrap** - Layout and styling.
+✔️ **HTML, Bootstrap** - Layout and styling.
 
 ✔️ **GitHub Pages** - Project deployment.
 
